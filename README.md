@@ -1,5 +1,5 @@
 # panxocu.github.io
-## Trabajo final
+Trabajo final
 -css
 -html
 -js
